@@ -69,7 +69,7 @@ void print(int n,int lvl,int m)
 }
 int main()
 {
-    freopen("out.txt","w",stdout);
+    //freopen("out.txt","w",stdout);
 
     string a,b;
     while(getline(cin,a ))
